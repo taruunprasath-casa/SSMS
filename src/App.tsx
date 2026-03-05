@@ -119,7 +119,7 @@ type ToastNotification = Alert & { id: number };
               {NAV_ITEMS.find(n => n.id === page)?.icon} {NAV_ITEMS.find(n => n.id === page)?.label}
             </h1>
             <p style={{ fontSize: 12, color: "#475569", margin: "3px 0 0" }}>
-              Smart Self Monitoring System — Phase 2 Admin Dashboard
+              Smart Self Monitoring System Admin Dashboard
             </p>
           </div>
           <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
